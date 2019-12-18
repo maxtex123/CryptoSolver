@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSU.CIS300.CryptoSolver", "CryptoSolver\KSU.CIS300.CryptoSolver.csproj", "{40D2A534-3DA1-41B3-9C0F-6EF53E95894C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSU.CIS300.CryptoSolver.Tests", "KSU.CIS.300.CryptoSolver.Tests\KSU.CIS300.CryptoSolver.Tests.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D2A534-3DA1-41B3-9C0F-6EF53E95894C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D2A534-3DA1-41B3-9C0F-6EF53E95894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D2A534-3DA1-41B3-9C0F-6EF53E95894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D2A534-3DA1-41B3-9C0F-6EF53E95894C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A76D91-940C-4F5D-8BC0-85567AC8044B}
+	EndGlobalSection
+EndGlobal

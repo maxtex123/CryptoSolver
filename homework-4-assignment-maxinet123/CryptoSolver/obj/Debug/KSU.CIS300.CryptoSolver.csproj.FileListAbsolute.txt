@@ -1,0 +1,11 @@
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\obj\Debug\CryptoSolver.Properties.Resources.resources
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\obj\Debug\CryptoSolver.UserInterface.resources
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\obj\Debug\KSU.CIS300.CryptoSolver.csproj.GenerateResource.cache
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\obj\Debug\KSU.CIS300.CryptoSolver.csproj.CoreCompileInputs.cache
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\bin\Debug\data\dictionary.txt
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\bin\Debug\CryptoSolver.exe.config
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\bin\Debug\CryptoSolver.exe
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\bin\Debug\CryptoSolver.pdb
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\obj\Debug\CryptoSolver.exe
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\obj\Debug\CryptoSolver.pdb
+C:\Users\Maxine\Source\Repos\homework-4-assignment-maxinet123\CryptoSolver\obj\Debug\KSU.CIS300.CryptoSolver.csprojAssemblyReference.cache
